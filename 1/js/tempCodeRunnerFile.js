@@ -1,2 +1,5 @@
-const category = 'toys';
-console.log(`https://someurl.com/${category}/5`);
+function showFirstMessage(text) {
+	console.log(text);
+}
+
+showFirstMessage('Hello, world');
